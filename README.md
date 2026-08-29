@@ -29,12 +29,12 @@ Hi, I'm Jeevesh Bhor. This repo documents my journey into cybersecurity through 
 ### HTB Writeups
 Detailed walkthroughs of HackTheBox machines, covering exploitation techniques and methodology.
 
-- [View all writeups →](./htb-writeups/)
+- [View all writeups →](./HTB/)
 
 ### TryHackMe Labs
 Structured learning paths and room completions with key takeaways.
 
-- [View all labs →](./tryhackme/)
+- [View all labs →](./THM/)
 
 ### Home Lab
 Setting up security infrastructure and practicing incident detection/response.
