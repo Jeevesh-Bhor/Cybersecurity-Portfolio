@@ -76,7 +76,7 @@ Currently focusing on:
 
 Quick reference guides and useful security resources.
 
-- [Linux Command Cheatsheet](./tools-notes/linux-commands.md)
+- [Linux Command Cheatsheet](./Resources%20&%20Notes/Linux%20Command%20Cheatsheet.pdf)
 - [Networking Fundamentals](./tools-notes/networking-basics.md)
 - [Useful Resources](./tools-notes/useful-resources.md)
 
