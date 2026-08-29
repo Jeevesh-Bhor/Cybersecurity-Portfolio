@@ -200,5 +200,4 @@ cat <filename>              # Display file contents
 
 **Status:** ✅ Completed  
 **Challenge Type:** Forensics / OSINT / Beginner  
-**Key Learning:** Systematic filesystem exploration and information correlation  
-**Next:** Ghost Track Level 1 (to be documented)
+**Key Learning:** Systematic filesystem exploration and information correlation
