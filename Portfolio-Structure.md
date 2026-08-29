@@ -5,14 +5,23 @@ cybersecurity-portfolio/
 │
 ├── README.md                          (Main overview)
 ├── LICENSE                            (MIT License)
+├── Portfolio-Structure.md             (This file)
 │
-├── HTB/                               (HackTheBox Writeups)
+├── BreachLabs/                        (BreachLabs Ghost Track Series)
+│   ├── Ghost/
+│   │   ├── Level 0 - First Contact.md
+│   │   ├── Level 01 - Name Game.md
+│   │   ├── Level 02 - In The Shadows.md
+│   │   ├── Level 03 - Access Denied.md
+│   │   └── Level 04 - Signal In The Noise.md
+│
+├── HTB/                               (HackTheBox Writeups - 4 completed)
 │   ├── HTB-Flag_Command.md
 │   ├── HTB-Spooky_Pass.md
 │   ├── HTB-Suspicious_Reviewer.md
 │   └── HTB-WebVault.md
 │
-├── THM/                               (TryHackMe Writeups)
+├── THM/                               (TryHackMe Writeups - 7 completed)
 │   ├── THM-Lian_Yu.md
 │   ├── THM-Pickle_Rick.md
 │   ├── THM-Root_Me.md
@@ -26,7 +35,7 @@ cybersecurity-portfolio/
 │   ├── incident-response-walkthrough.md
 │   └── /screenshots/
 │
-├── tools-notes/                       (Security Tools & Concepts)
+├── tools-notes/                       (Planned - Security Tools & Concepts)
 │   ├── linux-commands.md
 │   ├── networking-basics.md
 │   └── useful-resources.md
