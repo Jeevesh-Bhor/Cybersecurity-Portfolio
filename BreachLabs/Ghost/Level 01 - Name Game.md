@@ -2,8 +2,7 @@
 
 **Challenge:** Level 1 → 2  
 **Date Completed:** August 29, 2026  
-**Platform:** BreachLabs  
-**Difficulty:** Beginner
+**Platform:** [BreachLabs](https://breachlab.org)
 
 ---
 
