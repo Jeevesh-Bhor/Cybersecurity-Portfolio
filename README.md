@@ -36,6 +36,13 @@ Structured learning paths and room completions with key takeaways.
 
 - [View all labs →](./THM/)
 
+### BreachLabs
+Structured CTF Tracks that cover each concept.
+- [View all tracks →](./BreachLabs/)
+
+  #### Ghost Track
+    - [View Ghost Track →](./BreachLabs/Ghost)
+
 ### Home Lab
 Setting up security infrastructure and practicing incident detection/response.
 
