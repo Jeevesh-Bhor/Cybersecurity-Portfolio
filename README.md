@@ -44,7 +44,7 @@ Structured CTF Tracks that cover each concept.
     - [View Ghost Track →](./BreachLabs/Ghost)
 
   #### Phantom Track
-    - [View Ghost Track →](./BreachLabs/Phantom)
+    - [View Phantom Track →](./BreachLabs/Phantom)
 
 ### Home Lab
 Setting up security infrastructure and practicing incident detection/response.
