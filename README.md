@@ -1,4 +1,4 @@
-# Cybersecurity-Portfolio
+# Cybersecurity Portfolio
 
 Hi, I'm Jeevesh Bhor. This repo documents my journey into cybersecurity through hands-on labs, certifications, and security research.
 
