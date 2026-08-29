@@ -14,7 +14,9 @@ cybersecurity-portfolio/
 │   │   ├── Level 02 - In The Shadows.md
 │   │   ├── Level 03 - Access Denied.md
 │   │   └── Level 04 - Signal In The Noise.md
-│
+│   |
+|   ├── Phantom/
+|
 ├── HTB/                               (HackTheBox Writeups - 4 completed)
 │   ├── HTB-Flag_Command.md
 │   ├── HTB-Spooky_Pass.md
@@ -35,10 +37,10 @@ cybersecurity-portfolio/
 │   ├── incident-response-walkthrough.md
 │   └── /screenshots/
 │
-├── tools-notes/                       (Planned - Security Tools & Concepts)
-│   ├── linux-commands.md
-│   ├── networking-basics.md
-│   └── useful-resources.md
+├── Resources & Notes                       (Planned - Security Tools & Concepts)
+│   ├── Linux Command Cheatsheet.pdf
+│   ├── networking-basics.md                (To be added)
+│   └── useful-resources.md                 (To be added)
 │
 └── certifications/                    (Planned - Certification Progress)
     ├── README.md
