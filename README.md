@@ -4,7 +4,7 @@ Hi, I'm Jeevesh Bhor. This repo documents my journey into cybersecurity through 
 
 ## About Me
 
-- **Current:** First-year IT student at APSIT, pursuing cybersecurity specialization
+- **Current:** Pursuing cybersecurity specialization
 - **Focus:** Offensive security, penetration testing, vulnerability assessment
 - **Status:** Security+ candidate (Sept-Oct 2025)
 
