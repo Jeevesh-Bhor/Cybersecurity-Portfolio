@@ -9,13 +9,7 @@ cybersecurity-portfolio/
 │
 ├── BreachLabs/                                    
 │   ├── Ghost/                                     (Ghost Track Writeups)
-│   │   ├── Level 0 - First Contact.md
-│   │   ├── Level 01 - Name Game.md
-│   │   ├── Level 02 - In The Shadows.md
-│   │   ├── Level 03 - Access Denied.md
-│   │   └── Level 04 - Signal In The Noise.md
-│   |
-|   ├── Phantom/
+|   ├── Phantom/                                   (Phantom Track Writeups - To be added)
 |
 ├── HTB/                                           (HackTheBox Writeups)
 │   ├── Easy
