@@ -112,7 +112,7 @@ AUTHENTICATE: GHOST
 
 **Response:**
 ```
-Credential: P0rts_N3v3r_L13
+Credential: [redacted]
 ```
 
 **Finding:** Port 30101 accepted token "GHOST" and returned credential with flag-formatted content.
