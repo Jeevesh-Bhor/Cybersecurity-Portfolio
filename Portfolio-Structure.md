@@ -3,12 +3,12 @@
 ```
 cybersecurity-portfolio/
 │
-├── README.md                          (Main overview)
-├── LICENSE                            (MIT License)
-├── Portfolio-Structure.md             (This file)
+├── README.md                                      (Main overview)
+├── LICENSE                                        (MIT License)
+├── Portfolio-Structure.md                         (This file)
 │
-├── BreachLabs/                        (BreachLabs Ghost Track Series)
-│   ├── Ghost/
+├── BreachLabs/                                    
+│   ├── Ghost/                                     (Ghost Track Writeups)
 │   │   ├── Level 0 - First Contact.md
 │   │   ├── Level 01 - Name Game.md
 │   │   ├── Level 02 - In The Shadows.md
@@ -17,32 +17,29 @@ cybersecurity-portfolio/
 │   |
 |   ├── Phantom/
 |
-├── HTB/                               (HackTheBox Writeups - 4 completed)
-│   ├── HTB-Flag_Command.md
-│   ├── HTB-Spooky_Pass.md
-│   ├── HTB-Suspicious_Reviewer.md
-│   └── HTB-WebVault.md
+├── HTB/                                           (HackTheBox Writeups)
+│   ├── Easy
+|   ├── Medium
+|   ├── Hard
+|   ├── Insane
 │
-├── THM/                               (TryHackMe Writeups - 7 completed)
-│   ├── THM-Lian_Yu.md
-│   ├── THM-Pickle_Rick.md
-│   ├── THM-Root_Me.md
-│   ├── THM-Simple_CTF.md
-│   ├── THM-Takeover.md
-│   ├── THM-Thompson.md
-│   └── THM-Valley.md
+├── THM/                                           (TryHackMe Writeups)
+│   ├── Easy
+|   ├── Medium
+|   ├── Hard
+|   ├── Insane
 │
-├── homelab/                           (Planned - Home Lab Documentation)
-│   ├── wazuh-setup.md                 (SIEM setup guide)
+├── homelab/                                       (Planned - Home Lab Documentation)
+│   ├── wazuh-setup.md                             (SIEM setup guide)
 │   ├── incident-response-walkthrough.md
 │   └── /screenshots/
 │
-├── Resources & Notes                       (Planned - Security Tools & Concepts)
+├── Resources & Notes                               (Planned - Security Tools & Concepts)
 │   ├── Linux Command Cheatsheet.pdf
-│   ├── networking-basics.md                (To be added)
-│   └── useful-resources.md                 (To be added)
+│   ├── networking-basics.md                        (To be added)
+│   └── useful-resources.md                         (To be added)
 │
-└── certifications/                    (Planned - Certification Progress)
+└── certifications/                                 (Planned - Certification Progress)
     ├── README.md
     └── /proof/
 ```
