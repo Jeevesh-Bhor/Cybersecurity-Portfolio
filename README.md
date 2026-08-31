@@ -77,6 +77,7 @@ Currently focusing on:
 Quick reference guides and useful security resources.
 
 - [Linux Command Cheatsheet](./Resources%20&%20Notes/Linux%20Command%20Cheatsheet.pdf)
+- [Personal CompTIA Security+ Notes](./Resources%20&%20Notes/CompTIA%20Security+%20Notes.md)
 - [Networking Fundamentals](./tools-notes/networking-basics.md)
 - [Useful Resources](./tools-notes/useful-resources.md)
 
